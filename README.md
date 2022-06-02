@@ -3,11 +3,11 @@
 - 🔭 I’m currently working on Front-end projects
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on React Projects
-- 🤔 I’m looking for help with Python and conections back-to-front
+- 🤔 I’m looking for help with database and conections back-to-front
 - 💬 Ask me about my soft skills
 - 📫 How to reach me: sand me a message
-- 😄 Pronouns: Ela/Dela
-- ⚡ Fun fact: I love sing in a shower!
+- 😄 Pronouns: Ele/Dele
+- ⚡ Fun fact: I love play music like a DJ!
  <div>
   <a href="https://github.com/FelipeOrtizDev">
   <img height="168em" src="https://github-readme-stats.vercel.app/api?username=FelipeOrtizDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
