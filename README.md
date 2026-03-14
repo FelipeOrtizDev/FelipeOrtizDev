@@ -10,28 +10,7 @@ Ultimamente venho explorando fluxos de machine learning, sistemas de IA multiage
 
 Fun fact: gosto de trabalhar em sistemas complexos que conectam plataformas legadas como Mainframe com arquiteturas modernas em cloud — é gosto de jogos de cartas como yugioh.
 
-<style>
-    .teste {
-    display: flex;
-    flex-direction: row;
-    align-items: center; 
-    }
-    .img_python {
-        margin: 10px
-    }
-    .img_apache {
-        border-radius: 5px;
-        margin: 10px;
-        
-    }
-    .img_sql { 
-        margin:10px
-    }
-    .img_nosql { 
-        margin:10px;
-        border-radius: 5px;
-    }
-</style>
+
 <div class='teste'>
 <img src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/apache-spark-icon.png' width='50px' height='50px' class='img_apache' >
 
@@ -48,3 +27,24 @@ Fun fact: gosto de trabalhar em sistemas complexos que conectam plataformas lega
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeOrtizDev/FelipeOrtizDev/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FelipeOrtizDev/FelipeOrtizDev/output/github-contribution-grid-snake.svg">
 </picture>
+<style>
+    .teste {
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+    }
+    .img_python {
+        margin: 10px
+    }
+    .img_apache {
+        border-radius: 5px;
+        margin: 10px;
+    }
+    .img_sql { 
+        margin:10px
+    }
+    .img_nosql { 
+        margin:10px;
+        border-radius: 5px;
+    }
+</style>
