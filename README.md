@@ -1,39 +1,49 @@
-## Olá! Meu nome é Felipe Ortiz
+## Olá! Meu nome é Felipe Ortiz 🚀
 
-- 🔭 Em busca de oportunidade profissional como desenvolvedor Web
-- 🌱 Estudando linguagem back-end JAVA e frameworks
-- ⚡ Fui estudante do instituto proa 4.0 e estou cursando o 2º semestre da faculdade de Análise e Desenvolvimento de Sistemas
-- 😄 Pronouns: Ele/Dele
+Sou engenheiro de dados, com foco na construção de sistemas de dados escaláveis e plataformas de crédito no setor financeiro.
 
- <div>
-  <a href="https://github.com/FelipeOrtizDev">
-  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=FelipeOrtizDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeOrtizDev&layout=compact&langs_count=7&theme=dracula"/>
+Atualmente trabalho com pipelines de dados, processamento em larga escala e arquiteturas em cloud, utilizando tecnologias como AWS, PySpark, SQL e sistemas distribuídos. Também gosto de desenvolver serviços backend e melhorar a performance e confiabilidade de sistemas.
+
+Tenho grande interesse em infraestrutura de dados, sistemas distribuídos, arquitetura de software e sistemas financeiros.
+
+Ultimamente venho explorando fluxos de machine learning, sistemas de IA multiagentes e processamento de dados em larga escala.
+
+Fun fact: gosto de trabalhar em sistemas complexos que conectam plataformas legadas como Mainframe com arquiteturas modernas em cloud — é gosto de jogos de cartas como yugioh.
+
+<style>
+    .teste {
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+    }
+    .img_python {
+        margin: 10px
+    }
+    .img_apache {
+        border-radius: 5px;
+        margin: 10px
+    }
+    .img_sql { 
+        margin:10px
+    }
+    .img_nosql { 
+        margin:10px;
+        border-radius: 5px;
+    }
+</style>
+<div class='teste'>
+<img src='https://banner2.cleanpng.com/20180331/qpe/avh4fm964.webp' width='100px' class='img_apache' >
+
+<img src='https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png' width='45px' class='img_python'>
+<img src='https://img.icons8.com/?size=48&id=xSkewUSqtErH&format=png' width='45px' class='img_pandas'>
+<img src='https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png' width='75px' class='img_sql'>
+<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttSZK3wlJHFqDXNZsQHjNGpBCZxwWYqPhkA&s' width='75px' class='img_nosql'>
+
+
+
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="right" src="https://i.picasion.com/pic91/670c552d9d9f6d48965c6e63a2cfcdda.gif">
-  </div>
-  
-  ##
-  
-  <div>
-  <a href="https://api.whatsapp.com/send?phone=5511989832717" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-   <a href = "mailto:felipe.ortiz.1610@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 	<a href="https://www.linkedin.com/in/felipe-ortiz-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://FelipeOrtizDev.github.io/Portifolio/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a> 
- 
-
- 
-</div>
-
-
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeOrtizDev/FelipeOrtizDev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeOrtizDev/FelipeOrtizDev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FelipeOrtizDev/FelipeOrtizDev/output/github-contribution-grid-snake.svg">
+</picture>
