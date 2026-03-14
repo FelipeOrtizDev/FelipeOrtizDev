@@ -32,7 +32,7 @@ Fun fact: gosto de trabalhar em sistemas complexos que conectam plataformas lega
     }
 </style>
 <div class='teste'>
-<img src='[https://banner2.cleanpng.com/20180331/qpe/avh4fm964.webp](https://icon2.cleanpng.com/20180331/xkq/avcntxumd.webp)' width='100px' class='img_apache' >
+<img src='https://ih1.redbubble.net/image.348476474.6940/st,small,507x507-pad,600x600,f8f8f8.u9.webp' width='100px' class='img_apache' >
 
 <img src='https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png' width='45px' class='img_python'>
 <img src='https://img.icons8.com/?size=48&id=xSkewUSqtErH&format=png' width='45px' class='img_pandas'>
