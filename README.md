@@ -33,7 +33,7 @@ Fun fact: gosto de trabalhar em sistemas complexos que conectam plataformas lega
     }
 </style>
 <div class='teste'>
-<img src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/apache-spark-icon.png' width='100px' height='50px' class='img_apache' >
+<img src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/apache-spark-icon.png' width='50px' height='50px' class='img_apache' >
 
 <img src='https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png' width='45px' class='img_python'>
 <img src='https://img.icons8.com/?size=48&id=xSkewUSqtErH&format=png' width='45px' class='img_pandas'>
