@@ -22,7 +22,6 @@ Fun fact: gosto de trabalhar em sistemas complexos que conectam plataformas lega
     .img_apache {
         border-radius: 5px;
         margin: 10px;
-        height: 50px
     }
     .img_sql { 
         margin:10px
